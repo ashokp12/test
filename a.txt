@@ -1,0 +1,68 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LIN80015274
+   Primary Dns Suffix  . . . . . . . : corp.capgemini.com
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : corp.capgemini.com
+                                       igatecorp.com
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : corp.capgemini.com
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection I219-LM
+   Physical Address. . . . . . . . . : 54-E1-AD-2D-F1-9C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : F4-8C-50-02-B4-F9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : corp.capgemini.com
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 8260
+   Physical Address. . . . . . . . . : F4-8C-50-02-B4-F8
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::bcf9:cc72:5099:abae%9(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.51.122.211(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.252.0
+   Lease Obtained. . . . . . . . . . : Wednesday, July 12, 2017 6:32:39 PM
+   Lease Expires . . . . . . . . . . : Wednesday, July 12, 2017 11:10:38 PM
+   Default Gateway . . . . . . . . . : 10.51.120.1
+   DHCP Server . . . . . . . . . . . : 10.51.5.11
+   DHCPv6 IAID . . . . . . . . . . . : 167021648
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-F8-57-75-54-E1-AD-2D-F1-9C
+   DNS Servers . . . . . . . . . . . : 10.51.105.4
+                                       10.51.105.5
+                                       10.74.101.162
+                                       10.48.152.162
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : F4-8C-50-02-B4-FC
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.corp.capgemini.com:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : corp.capgemini.com
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
